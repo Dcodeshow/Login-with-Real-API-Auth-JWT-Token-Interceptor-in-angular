@@ -1,4 +1,18 @@
 # Angular19
+
+# Topic Covered:
+Routing
+Services
+String Interpolation
+Event Binding
+Observable
+HTTP Post Method
+localStorage
+Classes
+Navigate route
+2 way data binding
+
+# Demo Login
 Email Id : nawaz@gmail.com
 pass: 123
 
